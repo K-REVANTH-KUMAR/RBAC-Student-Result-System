@@ -153,10 +153,6 @@ python app.py
 
 3. **Open in the browser by generated https link**
 
-# screen shots
-![Screenshot (210)](https://github.com/user-attachments/assets/10b4fe18-19ba-4d52-90e6-a276f9ac46ac)
-
-
 # Future Improvements
 Add pagination, filters, and sorting for result tables
 
